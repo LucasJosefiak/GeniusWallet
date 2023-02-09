@@ -1,6 +1,6 @@
 {
-    "name": "genius_wallet",
-    "short_name": "genius_wallet",
+    "name": "pb_test",
+    "short_name": "pb_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
