@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.genius_wallet">
+    package="com.example.pb_test">
    <application
-        android:label="genius_wallet"
+        android:label="pb_test"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
